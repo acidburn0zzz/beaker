@@ -3,7 +3,7 @@
   "name": "beakerbrowser",
   "devDependencies": {
     "browserify": "^13.0.1",
-    "electron": "2.0.2",
+    "electron": "39.8.10",
     "electron-builder": "~20.8.0",
     "eslint": "^4.5.0",
     "eslint-plugin-import": "^2.7.0",
@@ -19,7 +19,7 @@
     "gulp-watch": "^4.3.5",
     "into-stream": "^2.0.1",
     "q": "^1.4.1",
-    "rollup": "^0.41.0",
+    "rollup": "^4.62.4",
     "yargs": "^4.2.0"
   },
   "optionalDependencies": {
